@@ -1,4 +1,4 @@
 //your code here
-function countChars(obj){
-    document.getElementById("letterCount").innerHTML = obj.value.length;
+function countWords(obj){
+    document.getElementById("wordCount").innerHTML = obj.value.length;
 }
